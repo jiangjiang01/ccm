@@ -1,5 +1,5 @@
 {
-  "name": "claude-profile-switcher",
+  "name": "@haiyangj/ccs",
   "version": "1.0.1",
   "description": "CLI tool for managing Claude Code configuration profiles",
   "main": "src/index.js",
