@@ -1,0 +1,26 @@
+# Dependencies
+node_modules/
+package-lock.json
+
+# NPM
+*.log
+*.gz
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Test files
+.claude/
+*.bak
+*.tmp
+
+# Build outputs
+dist/
+build/
